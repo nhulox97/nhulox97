@@ -1,7 +1,7 @@
 ## nhulox97 🤖
 
 - 🤓 Working on my portfolio
-- 👨‍💻 Frontent enthusiast but Backend lover
+- 👨‍💻 Frontend enthusiast but Backend lover
 - ❤️ Nodejs + Reactjs
 - 💻 Trying out Flutter and Flask
 - 👨‍🏫 Without stop to learn
