@@ -1,6 +1,6 @@
 ## nhulox97 🤖
 
-![nhulox97](https://firebasestorage.googleapis.com/v0/b/wazunga-briefcase.appspot.com/o/member_avatars%2Fnhulox97.png?alt=media&token=3e09932d-ef7b-46db-bbaa-361d51d28e08)
+![nhulox97](https://firebasestorage.googleapis.com/v0/b/wazunga-briefcase.appspot.com/o/member_avatars%2Fnhulox97.png?alt=media&token=6e27f76e-8ba6-4967-8700-e51b799c4133)
 
 - 🤓 Working on my portfolio
 - 👨‍💻 Frontend enthusiast but Backend lover
