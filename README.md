@@ -33,3 +33,5 @@
 <!-- Most Used Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhulox97&exclude_repo=edsCV&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nhulox97)](https://github.com/anuraghazra/github-readme-stats)
