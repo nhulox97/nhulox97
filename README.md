@@ -37,6 +37,52 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nhulox97&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # My followers
-<!--START_SECTION:top-followers--> 
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/D3Portillo">
+        <img src="https://avatars2.githubusercontent.com/u/26236985" width="100px;" alt="D3Portillo"/>
+      </a>
+      <br />
+      <a href="https://github.com/D3Portillo">Denny Portillo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/danybeltran">
+        <img src="https://avatars2.githubusercontent.com/u/30043027" width="100px;" alt="danybeltran"/>
+      </a>
+      <br />
+      <a href="https://github.com/danybeltran">Dany Beltran</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jazsnchz">
+        <img src="https://avatars2.githubusercontent.com/u/58913696" width="100px;" alt="jazsnchz"/>
+      </a>
+      <br />
+      <a href="https://github.com/jazsnchz">Jaz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/manasesortez">
+        <img src="https://avatars2.githubusercontent.com/u/40925935" width="100px;" alt="manasesortez"/>
+      </a>
+      <br />
+      <a href="https://github.com/manasesortez">Alberto Turcios Ortez</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/januz08">
+        <img src="https://avatars2.githubusercontent.com/u/19317007" width="100px;" alt="januz08"/>
+      </a>
+      <br />
+      <a href="https://github.com/januz08">Bltzkrg</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/1HugoBenitez">
+        <img src="https://avatars2.githubusercontent.com/u/45577606" width="100px;" alt="1HugoBenitez"/>
+      </a>
+      <br />
+      <a href="https://github.com/1HugoBenitez">Hugo Medrano</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
 
