@@ -70,6 +70,13 @@ Linux                    1 hr 3 mins         ███████████�
       <a href="https://github.com/D3Portillo">Denny Portillo</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ElvisGmz">
+        <img src="https://avatars2.githubusercontent.com/u/38594674" width="100px;" alt="ElvisGmz"/>
+      </a>
+      <br />
+      <a href="https://github.com/ElvisGmz">ElvisGmz</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/danybeltran">
         <img src="https://avatars2.githubusercontent.com/u/30043027" width="100px;" alt="danybeltran"/>
       </a>
