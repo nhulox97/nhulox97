@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](READMEbanner.png)
 
 <!-- retro visitor counter -->
 <p align="center"> 
