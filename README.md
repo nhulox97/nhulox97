@@ -56,8 +56,6 @@ Linux                    7 hrs 12 mins       ███████████�
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhulox97&exclude_repo=edsCV&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nhulox97&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 # My followers
 <!--START_SECTION:top-followers-->
 <table>
