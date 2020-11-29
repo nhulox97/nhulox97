@@ -96,7 +96,7 @@ Linux                    17 hrs 19 mins      ███████████�
         <img src="https://avatars2.githubusercontent.com/u/40925935" width="100px;" alt="manasesortez"/>
       </a>
       <br />
-      <a href="https://github.com/manasesortez">Alberto Turcios Ortez</a>
+      <a href="https://github.com/manasesortez">Alberto Manasés Turcios Ortéz</a>
     </td>
     <td align="center">
       <a href="https://github.com/januz08">
@@ -120,6 +120,13 @@ Linux                    17 hrs 19 mins      ███████████�
       </a>
       <br />
       <a href="https://github.com/josuecorea5">josuecorea5</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Edu22-san">
+        <img src="https://avatars2.githubusercontent.com/u/70236757" width="100px;" alt="Edu22-san"/>
+      </a>
+      <br />
+      <a href="https://github.com/Edu22-san">Edu22-san</a>
     </td>
   </tr>
 </table>
