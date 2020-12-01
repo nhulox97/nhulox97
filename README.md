@@ -77,18 +77,18 @@ Linux                    17 hrs 41 mins      ███████████�
       <a href="https://github.com/ElvisGmz">ElvisGmz</a>
     </td>
     <td align="center">
-      <a href="https://github.com/jazsnchz">
-        <img src="https://avatars2.githubusercontent.com/u/58913696" width="100px;" alt="jazsnchz"/>
-      </a>
-      <br />
-      <a href="https://github.com/jazsnchz">Jaz</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/danybeltran">
         <img src="https://avatars2.githubusercontent.com/u/30043027" width="100px;" alt="danybeltran"/>
       </a>
       <br />
       <a href="https://github.com/danybeltran">Dany Beltran</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jazsnchz">
+        <img src="https://avatars2.githubusercontent.com/u/58913696" width="100px;" alt="jazsnchz"/>
+      </a>
+      <br />
+      <a href="https://github.com/jazsnchz">Jaz</a>
     </td>
     <td align="center">
       <a href="https://github.com/manasesortez">
