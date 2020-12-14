@@ -70,6 +70,13 @@ Linux                    29 hrs 2 mins       ███████████�
       <a href="https://github.com/D3Portillo">Denny Portillo</a>
     </td>
     <td align="center">
+      <a href="https://github.com/nelsonher019">
+        <img src="https://avatars2.githubusercontent.com/u/50471203" width="100px;" alt="nelsonher019"/>
+      </a>
+      <br />
+      <a href="https://github.com/nelsonher019">Nelson Adonis Hernandez</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ElvisGmz">
         <img src="https://avatars2.githubusercontent.com/u/38594674" width="100px;" alt="ElvisGmz"/>
       </a>
@@ -104,6 +111,8 @@ Linux                    29 hrs 2 mins       ███████████�
       <br />
       <a href="https://github.com/januz08">Bltzkrg</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/1HugoBenitez">
         <img src="https://avatars2.githubusercontent.com/u/45577606" width="100px;" alt="1HugoBenitez"/>
@@ -111,8 +120,6 @@ Linux                    29 hrs 2 mins       ███████████�
       <br />
       <a href="https://github.com/1HugoBenitez">Hugo Medrano</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/josuecorea5">
         <img src="https://avatars2.githubusercontent.com/u/48955494" width="100px;" alt="josuecorea5"/>
