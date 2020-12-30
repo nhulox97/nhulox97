@@ -101,7 +101,7 @@ Linux                    7 hrs 17 mins       ███████████�
         <img src="https://avatars2.githubusercontent.com/u/40925935" width="100px;" alt="manasesortez"/>
       </a>
       <br />
-      <a href="https://github.com/manasesortez">Alberto Manasés Turcios Ortéz</a>
+      <a href="https://github.com/manasesortez">Manasés Turcios Ortéz</a>
     </td>
     <td align="center">
       <a href="https://github.com/januz08">
