@@ -77,7 +77,7 @@ Linux                    42 mins             ███████████�
         <img src="https://avatars2.githubusercontent.com/u/38594674" width="100px;" alt="ElvisGmz"/>
       </a>
       <br />
-      <a href="https://github.com/ElvisGmz">ElvisGmz</a>
+      <a href="https://github.com/ElvisGmz">Elvis Gómez</a>
     </td>
     <td align="center">
       <a href="https://github.com/danybeltran">
