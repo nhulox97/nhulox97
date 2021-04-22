@@ -107,27 +107,27 @@ Windows                  4 hrs 48 mins       █████████░░�
       <a href="https://github.com/manasesortez">Manasés Turcios Ortéz</a>
     </td>
     <td align="center">
+      <a href="https://github.com/1HugoBenitez">
+        <img src="https://avatars2.githubusercontent.com/u/45577606" width="100px;" alt="1HugoBenitez"/>
+      </a>
+      <br />
+      <a href="https://github.com/1HugoBenitez">Hugo Medrano</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/josuecorea5">
         <img src="https://avatars2.githubusercontent.com/u/48955494" width="100px;" alt="josuecorea5"/>
       </a>
       <br />
       <a href="https://github.com/josuecorea5">josuecorea5</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/januz08">
         <img src="https://avatars2.githubusercontent.com/u/19317007" width="100px;" alt="januz08"/>
       </a>
       <br />
       <a href="https://github.com/januz08">Bltzkrg</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/1HugoBenitez">
-        <img src="https://avatars2.githubusercontent.com/u/45577606" width="100px;" alt="1HugoBenitez"/>
-      </a>
-      <br />
-      <a href="https://github.com/1HugoBenitez">Hugo Medrano</a>
     </td>
     <td align="center">
       <a href="https://github.com/Edu22-san">
