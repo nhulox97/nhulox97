@@ -69,11 +69,11 @@ Linux                    12 hrs 13 mins      ███████████�
       <a href="https://github.com/D3Portillo">Denny Portillo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/nelsonher019">
-        <img src="https://avatars2.githubusercontent.com/u/50471203" width="100px;" alt="nelsonher019"/>
+      <a href="https://github.com/nelsoncode019">
+        <img src="https://avatars2.githubusercontent.com/u/50471203" width="100px;" alt="nelsoncode019"/>
       </a>
       <br />
-      <a href="https://github.com/nelsonher019">Nelson Adonis Hernandez</a>
+      <a href="https://github.com/nelsoncode019">Nelson Adonis Hernandez</a>
     </td>
     <td align="center">
       <a href="https://github.com/ElvisGmz">
