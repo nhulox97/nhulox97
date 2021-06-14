@@ -100,12 +100,21 @@ Linux                    11 hrs 48 mins      ███████████�
       <a href="https://github.com/jazsnchz">Jaz</a>
     </td>
     <td align="center">
+      <a href="https://github.com/gerardofloresdev">
+        <img src="https://avatars2.githubusercontent.com/u/30551778" width="100px;" alt="gerardofloresdev"/>
+      </a>
+      <br />
+      <a href="https://github.com/gerardofloresdev">Gerardo Flores</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/manasesortez">
         <img src="https://avatars2.githubusercontent.com/u/40925935" width="100px;" alt="manasesortez"/>
       </a>
       <br />
       <a href="https://github.com/manasesortez">Manasés Turcios Ortéz</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/1HugoBenitez">
         <img src="https://avatars2.githubusercontent.com/u/45577606" width="100px;" alt="1HugoBenitez"/>
@@ -113,8 +122,6 @@ Linux                    11 hrs 48 mins      ███████████�
       <br />
       <a href="https://github.com/1HugoBenitez">Hugo Medrano</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/josuecorea5">
         <img src="https://avatars2.githubusercontent.com/u/48955494" width="100px;" alt="josuecorea5"/>
