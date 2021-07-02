@@ -102,7 +102,7 @@ Linux                    33 hrs 31 mins      ███████████�
         <img src="https://avatars2.githubusercontent.com/u/58913696" width="100px;" alt="jazsnchz"/>
       </a>
       <br />
-      <a href="https://github.com/jazsnchz">Jaz</a>
+      <a href="https://github.com/jazsnchz">Jazmín Sánchez</a>
     </td>
     <td align="center">
       <a href="https://github.com/manasesortez">
