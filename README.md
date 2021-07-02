@@ -16,7 +16,6 @@
 </p>
 
 <!-- Tools and skills -->
-*** TODO
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
