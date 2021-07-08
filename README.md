@@ -137,7 +137,7 @@ Linux                    21 hrs 16 mins      ███████████�
         <img src="https://avatars2.githubusercontent.com/u/70236757" width="100px;" alt="Edu22-san"/>
       </a>
       <br />
-      <a href="https://github.com/Edu22-san">Edu22-san</a>
+      <a href="https://github.com/Edu22-san">Raulo</a>
     </td>
   </tr>
 </table>
