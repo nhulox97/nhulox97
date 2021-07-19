@@ -61,18 +61,18 @@ Linux                    28 hrs 20 mins      ███████████�
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/D3Portillo">
-        <img src="https://avatars2.githubusercontent.com/u/26236985" width="100px;" alt="D3Portillo"/>
-      </a>
-      <br />
-      <a href="https://github.com/D3Portillo">Denny Portillo</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/jishanshaikh4">
         <img src="https://avatars2.githubusercontent.com/u/30091032" width="100px;" alt="jishanshaikh4"/>
       </a>
       <br />
       <a href="https://github.com/jishanshaikh4">Jishan Shaikh</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/D3Portillo">
+        <img src="https://avatars2.githubusercontent.com/u/26236985" width="100px;" alt="D3Portillo"/>
+      </a>
+      <br />
+      <a href="https://github.com/D3Portillo">Denny Portillo</a>
     </td>
     <td align="center">
       <a href="https://github.com/nelsoncode019">
