@@ -61,13 +61,6 @@ Linux                    16 hrs 54 mins      ███████████�
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/jishanshaikh4">
-        <img src="https://avatars2.githubusercontent.com/u/30091032" width="100px;" alt="jishanshaikh4"/>
-      </a>
-      <br />
-      <a href="https://github.com/jishanshaikh4">Jishan Shaikh</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/D3Portillo">
         <img src="https://avatars2.githubusercontent.com/u/26236985" width="100px;" alt="D3Portillo"/>
       </a>
@@ -109,8 +102,6 @@ Linux                    16 hrs 54 mins      ███████████�
       <br />
       <a href="https://github.com/jazsnchz">Jazmín Sánchez</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/manasesortez">
         <img src="https://avatars2.githubusercontent.com/u/40925935" width="100px;" alt="manasesortez"/>
@@ -118,6 +109,8 @@ Linux                    16 hrs 54 mins      ███████████�
       <br />
       <a href="https://github.com/manasesortez">Manasés Turcios Ortéz</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/1HugoBenitez">
         <img src="https://avatars2.githubusercontent.com/u/45577606" width="100px;" alt="1HugoBenitez"/>
