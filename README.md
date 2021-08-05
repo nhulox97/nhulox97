@@ -123,7 +123,7 @@ Linux                    12 hrs 46 mins      ███████████�
         <img src="https://avatars2.githubusercontent.com/u/48955494" width="100px;" alt="josuecorea5"/>
       </a>
       <br />
-      <a href="https://github.com/josuecorea5">josuecorea5</a>
+      <a href="https://github.com/josuecorea5">David Coreas</a>
     </td>
     <td align="center">
       <a href="https://github.com/januz08">
