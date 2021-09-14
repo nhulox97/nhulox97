@@ -70,7 +70,7 @@ Linux                    6 hrs 41 mins       ███████████�
         <img src="https://avatars2.githubusercontent.com/u/50471203" width="100px;" alt="nelsoncode019"/>
       </a>
       <br />
-      <a href="https://github.com/nelsoncode019">Nelson Hernandez (NelsonCode)</a>
+      <a href="https://github.com/nelsoncode019">Nelson Hernandez</a>
     </td>
     <td align="center">
       <a href="https://github.com/ElvisGmz">
