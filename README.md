@@ -24,19 +24,18 @@
 ⌚︎ Time Zone: America/El_Salvador
 
 💬 Programming Languages: 
-JavaScript               10 mins             ████████████████████████░   99.15% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 01/10/2021
+ Last Updated on 02/10/2021
 <!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
