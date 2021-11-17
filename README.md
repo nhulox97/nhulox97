@@ -73,18 +73,18 @@ Linux                    3 hrs 28 mins       ███████████�
       <a href="https://github.com/nelsoncode019">Nelson Hernandez</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ElvisGmz">
-        <img src="https://avatars2.githubusercontent.com/u/38594674" width="100px;" alt="ElvisGmz"/>
-      </a>
-      <br />
-      <a href="https://github.com/ElvisGmz">Elvis Gómez</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/gerardofloresdev">
         <img src="https://avatars2.githubusercontent.com/u/30551778" width="100px;" alt="gerardofloresdev"/>
       </a>
       <br />
       <a href="https://github.com/gerardofloresdev">Gerardo Flores</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ElvisGmz">
+        <img src="https://avatars2.githubusercontent.com/u/38594674" width="100px;" alt="ElvisGmz"/>
+      </a>
+      <br />
+      <a href="https://github.com/ElvisGmz">Elvis Gómez</a>
     </td>
     <td align="center">
       <a href="https://github.com/danybeltran">
