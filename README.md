@@ -69,18 +69,18 @@ No Activity Tracked This Week
       <a href="https://github.com/D3Portillo">Denny Portillo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/nelsoncode019">
-        <img src="https://avatars2.githubusercontent.com/u/50471203" width="100px;" alt="nelsoncode019"/>
-      </a>
-      <br />
-      <a href="https://github.com/nelsoncode019">Nelson Hernandez</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/gerardofloresdev">
         <img src="https://avatars2.githubusercontent.com/u/30551778" width="100px;" alt="gerardofloresdev"/>
       </a>
       <br />
       <a href="https://github.com/gerardofloresdev">Gerardo Flores</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nelsoncode019">
+        <img src="https://avatars2.githubusercontent.com/u/50471203" width="100px;" alt="nelsoncode019"/>
+      </a>
+      <br />
+      <a href="https://github.com/nelsoncode019">Nelson Hernandez</a>
     </td>
     <td align="center">
       <a href="https://github.com/ElvisGmz">
