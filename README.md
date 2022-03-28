@@ -59,7 +59,7 @@ No Activity Tracked This Week
         <img src="https://avatars2.githubusercontent.com/u/93806749" width="100px;" alt="TopCodeBeast"/>
       </a>
       <br />
-      <a href="https://github.com/TopCodeBeast">CodeBeast</a>
+      <a href="https://github.com/TopCodeBeast">TopCodeBeast</a>
     </td>
     <td align="center">
       <a href="https://github.com/D3Portillo">
