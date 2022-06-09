@@ -64,13 +64,6 @@ No Activity Tracked This Week
       <a href="https://github.com/TopCodeBeast">TopCodeBeast</a>
     </td>
     <td align="center">
-      <a href="https://github.com/0xgpapad">
-        <img src="https://avatars2.githubusercontent.com/u/79989107" width="100px;" alt="0xgpapad"/>
-      </a>
-      <br />
-      <a href="https://github.com/0xgpapad">Giorgos E Papadakis</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/The-Young-Programmer">
         <img src="https://avatars2.githubusercontent.com/u/79866006" width="100px;" alt="The-Young-Programmer"/>
       </a>
@@ -105,8 +98,6 @@ No Activity Tracked This Week
       <br />
       <a href="https://github.com/ElvisGmz">Elvis Gómez</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/danybeltran">
         <img src="https://avatars2.githubusercontent.com/u/30043027" width="100px;" alt="danybeltran"/>
@@ -114,6 +105,8 @@ No Activity Tracked This Week
       <br />
       <a href="https://github.com/danybeltran">Dany Beltran</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/jazsnchz">
         <img src="https://avatars2.githubusercontent.com/u/58913696" width="100px;" alt="jazsnchz"/>
