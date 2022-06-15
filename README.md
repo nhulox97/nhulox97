@@ -99,14 +99,21 @@ No Activity Tracked This Week
       <a href="https://github.com/ElvisGmz">Elvis Gómez</a>
     </td>
     <td align="center">
+      <a href="https://github.com/cyber-storm-200712">
+        <img src="https://avatars2.githubusercontent.com/u/82670106" width="100px;" alt="cyber-storm-200712"/>
+      </a>
+      <br />
+      <a href="https://github.com/cyber-storm-200712">storm</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/danybeltran">
         <img src="https://avatars2.githubusercontent.com/u/30043027" width="100px;" alt="danybeltran"/>
       </a>
       <br />
       <a href="https://github.com/danybeltran">Dany Beltran</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/jazsnchz">
         <img src="https://avatars2.githubusercontent.com/u/58913696" width="100px;" alt="jazsnchz"/>
