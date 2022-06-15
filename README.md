@@ -92,18 +92,18 @@ No Activity Tracked This Week
       <a href="https://github.com/nelsoncode019">Nelson Hernandez</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ElvisGmz">
-        <img src="https://avatars2.githubusercontent.com/u/38594674" width="100px;" alt="ElvisGmz"/>
-      </a>
-      <br />
-      <a href="https://github.com/ElvisGmz">Elvis Gómez</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/cyber-storm-200712">
         <img src="https://avatars2.githubusercontent.com/u/82670106" width="100px;" alt="cyber-storm-200712"/>
       </a>
       <br />
       <a href="https://github.com/cyber-storm-200712">storm</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ElvisGmz">
+        <img src="https://avatars2.githubusercontent.com/u/38594674" width="100px;" alt="ElvisGmz"/>
+      </a>
+      <br />
+      <a href="https://github.com/ElvisGmz">Elvis Gómez</a>
     </td>
   </tr>
   <tr>
