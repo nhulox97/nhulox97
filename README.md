@@ -71,18 +71,18 @@ No Activity Tracked This Week
       <a href="https://github.com/The-Young-Programmer">Nemonet</a>
     </td>
     <td align="center">
-      <a href="https://github.com/D3Portillo">
-        <img src="https://avatars2.githubusercontent.com/u/26236985" width="100px;" alt="D3Portillo"/>
-      </a>
-      <br />
-      <a href="https://github.com/D3Portillo">Denny Portillo</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/cyber-storm-200712">
         <img src="https://avatars2.githubusercontent.com/u/82670106" width="100px;" alt="cyber-storm-200712"/>
       </a>
       <br />
       <a href="https://github.com/cyber-storm-200712">storm</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/D3Portillo">
+        <img src="https://avatars2.githubusercontent.com/u/26236985" width="100px;" alt="D3Portillo"/>
+      </a>
+      <br />
+      <a href="https://github.com/D3Portillo">Denny Portillo</a>
     </td>
     <td align="center">
       <a href="https://github.com/nelsoncode019">
