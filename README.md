@@ -85,13 +85,6 @@ No Activity Tracked This Week
       <a href="https://github.com/cyber-storm-200712">storm</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gerardofloresdev">
-        <img src="https://avatars2.githubusercontent.com/u/30551778" width="100px;" alt="gerardofloresdev"/>
-      </a>
-      <br />
-      <a href="https://github.com/gerardofloresdev">Gerardo Flores</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/nelsoncode019">
         <img src="https://avatars2.githubusercontent.com/u/50471203" width="100px;" alt="nelsoncode019"/>
       </a>
@@ -105,8 +98,6 @@ No Activity Tracked This Week
       <br />
       <a href="https://github.com/ElvisGmz">Elvis Gómez</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/danybeltran">
         <img src="https://avatars2.githubusercontent.com/u/30043027" width="100px;" alt="danybeltran"/>
@@ -114,6 +105,8 @@ No Activity Tracked This Week
       <br />
       <a href="https://github.com/danybeltran">Dany Beltran</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/jazsnchz">
         <img src="https://avatars2.githubusercontent.com/u/58913696" width="100px;" alt="jazsnchz"/>
@@ -154,7 +147,7 @@ No Activity Tracked This Week
         <img src="https://avatars2.githubusercontent.com/u/70236757" width="100px;" alt="Edu22-san"/>
       </a>
       <br />
-      <a href="https://github.com/Edu22-san">Raulo</a>
+      <a href="https://github.com/Edu22-san">Raul Vigil</a>
     </td>
   </tr>
 </table>
