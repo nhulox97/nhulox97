@@ -96,7 +96,7 @@ No Activity Tracked This Week
         <img src="https://avatars2.githubusercontent.com/u/50471203" width="100px;" alt="nelsondev19"/>
       </a>
       <br />
-      <a href="https://github.com/nelsondev19">Nelson Hernandez</a>
+      <a href="https://github.com/nelsondev19">Nelson Hernández</a>
     </td>
     <td align="center">
       <a href="https://github.com/ElvisGmz">
