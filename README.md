@@ -99,20 +99,20 @@ No Activity Tracked This Week
       <a href="https://github.com/nelsondev19">Nelson Hernández</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ElvisGmz">
-        <img src="https://avatars2.githubusercontent.com/u/38594674" width="100px;" alt="ElvisGmz"/>
-      </a>
-      <br />
-      <a href="https://github.com/ElvisGmz">Elvis Gómez</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/danybeltran">
         <img src="https://avatars2.githubusercontent.com/u/30043027" width="100px;" alt="danybeltran"/>
       </a>
       <br />
       <a href="https://github.com/danybeltran">Dany Beltran</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ElvisGmz">
+        <img src="https://avatars2.githubusercontent.com/u/38594674" width="100px;" alt="ElvisGmz"/>
+      </a>
+      <br />
+      <a href="https://github.com/ElvisGmz">Elvis Gómez</a>
     </td>
     <td align="center">
       <a href="https://github.com/jazsnchz">
