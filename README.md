@@ -71,13 +71,6 @@ No Activity Tracked This Week
       <a href="https://github.com/TopCodeBeast">TopCodeBeast</a>
     </td>
     <td align="center">
-      <a href="https://github.com/The-Young-Programmer">
-        <img src="https://avatars2.githubusercontent.com/u/79866006" width="100px;" alt="The-Young-Programmer"/>
-      </a>
-      <br />
-      <a href="https://github.com/The-Young-Programmer">Nemonet</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/cyber-storm-200712">
         <img src="https://avatars2.githubusercontent.com/u/82670106" width="100px;" alt="cyber-storm-200712"/>
       </a>
@@ -105,8 +98,6 @@ No Activity Tracked This Week
       <br />
       <a href="https://github.com/danybeltran">Dany Beltran</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ElvisGmz">
         <img src="https://avatars2.githubusercontent.com/u/38594674" width="100px;" alt="ElvisGmz"/>
@@ -114,6 +105,8 @@ No Activity Tracked This Week
       <br />
       <a href="https://github.com/ElvisGmz">Elvis Gómez</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/jazsnchz">
         <img src="https://avatars2.githubusercontent.com/u/58913696" width="100px;" alt="jazsnchz"/>
