@@ -64,13 +64,6 @@ No Activity Tracked This Week
       <a href="https://github.com/TopCodeBeast">TopCodeBeast</a>
     </td>
     <td align="center">
-      <a href="https://github.com/cyber-storm-200712">
-        <img src="https://avatars2.githubusercontent.com/u/82670106" width="100px;" alt="cyber-storm-200712"/>
-      </a>
-      <br />
-      <a href="https://github.com/cyber-storm-200712">storm</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/D3Portillo">
         <img src="https://avatars2.githubusercontent.com/u/26236985" width="100px;" alt="D3Portillo"/>
       </a>
@@ -105,8 +98,6 @@ No Activity Tracked This Week
       <br />
       <a href="https://github.com/jazsnchz">Jazmín Sánchez</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/manasesortez">
         <img src="https://avatars2.githubusercontent.com/u/40925935" width="100px;" alt="manasesortez"/>
@@ -114,6 +105,8 @@ No Activity Tracked This Week
       <br />
       <a href="https://github.com/manasesortez">Manasés Turcios Ortéz</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/josuecorea5">
         <img src="https://avatars2.githubusercontent.com/u/48955494" width="100px;" alt="josuecorea5"/>
