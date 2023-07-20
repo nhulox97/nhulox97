@@ -56,6 +56,13 @@ No Activity Tracked This Week
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/AYIDouble">
+        <img src="https://avatars2.githubusercontent.com/u/18186995" width="100px;" alt="AYIDouble"/>
+      </a>
+      <br />
+      <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/TopCodeBeast">
         <img src="https://avatars2.githubusercontent.com/u/93806749" width="100px;" alt="TopCodeBeast"/>
       </a>
@@ -97,6 +104,8 @@ No Activity Tracked This Week
       <br />
       <a href="https://github.com/manasesortez">Manasés Turcios Ortéz</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/jazsnchz">
         <img src="https://avatars2.githubusercontent.com/u/58913696" width="100px;" alt="jazsnchz"/>
@@ -104,8 +113,6 @@ No Activity Tracked This Week
       <br />
       <a href="https://github.com/jazsnchz">Jazmín Sánchez</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/josuecorea5">
         <img src="https://avatars2.githubusercontent.com/u/48955494" width="100px;" alt="josuecorea5"/>
