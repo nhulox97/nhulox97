@@ -141,6 +141,13 @@ No Activity Tracked This Week
       <br />
       <a href="https://github.com/Edu22-san">Raul Vigil</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/AndresOtero2020">
+        <img src="https://avatars2.githubusercontent.com/u/75685102" width="100px;" alt="AndresOtero2020"/>
+      </a>
+      <br />
+      <a href="https://github.com/AndresOtero2020">Andres Otero</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
