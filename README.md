@@ -148,6 +148,13 @@ No Activity Tracked This Week
       <br />
       <a href="https://github.com/AndresOtero2020">Andres Otero</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/magicvenus">
+        <img src="https://avatars2.githubusercontent.com/u/143574093" width="100px;" alt="magicvenus"/>
+      </a>
+      <br />
+      <a href="https://github.com/magicvenus">magicvenus</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
