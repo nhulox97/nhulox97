@@ -70,6 +70,13 @@ No Activity Tracked This Week
       <a href="https://github.com/TopCodeBeast">TopCodeBeast</a>
     </td>
     <td align="center">
+      <a href="https://github.com/shahradelahi">
+        <img src="https://avatars2.githubusercontent.com/u/17948260" width="100px;" alt="shahradelahi"/>
+      </a>
+      <br />
+      <a href="https://github.com/shahradelahi">Shahrad Elahi</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/D3Portillo">
         <img src="https://avatars2.githubusercontent.com/u/26236985" width="100px;" alt="D3Portillo"/>
       </a>
@@ -97,6 +104,8 @@ No Activity Tracked This Week
       <br />
       <a href="https://github.com/ElvisGmz">Elvis Gómez</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/manasesortez">
         <img src="https://avatars2.githubusercontent.com/u/40925935" width="100px;" alt="manasesortez"/>
@@ -104,8 +113,6 @@ No Activity Tracked This Week
       <br />
       <a href="https://github.com/manasesortez">Manasés Turcios Ortéz</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/jazsnchz">
         <img src="https://avatars2.githubusercontent.com/u/58913696" width="100px;" alt="jazsnchz"/>
@@ -147,13 +154,6 @@ No Activity Tracked This Week
       </a>
       <br />
       <a href="https://github.com/AndresOtero2020">Andres Otero</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/magicvenus">
-        <img src="https://avatars2.githubusercontent.com/u/143574093" width="100px;" alt="magicvenus"/>
-      </a>
-      <br />
-      <a href="https://github.com/magicvenus">magicvenus</a>
     </td>
   </tr>
 </table>
