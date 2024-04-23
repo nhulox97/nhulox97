@@ -128,6 +128,13 @@ No Activity Tracked This Week
       <a href="https://github.com/1HugoBenitez">Hugo Medrano</a>
     </td>
     <td align="center">
+      <a href="https://github.com/alan-alvarenga-telus">
+        <img src="https://avatars2.githubusercontent.com/u/48456822" width="100px;" alt="alan-alvarenga-telus"/>
+      </a>
+      <br />
+      <a href="https://github.com/alan-alvarenga-telus">Alan Alvarenga</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/januz08">
         <img src="https://avatars2.githubusercontent.com/u/19317007" width="100px;" alt="januz08"/>
       </a>
@@ -147,13 +154,6 @@ No Activity Tracked This Week
       </a>
       <br />
       <a href="https://github.com/AndresOtero2020">Andres Otero</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/magicvenus">
-        <img src="https://avatars2.githubusercontent.com/u/143574093" width="100px;" alt="magicvenus"/>
-      </a>
-      <br />
-      <a href="https://github.com/magicvenus">magicvenus</a>
     </td>
   </tr>
 </table>
