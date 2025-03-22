@@ -142,18 +142,18 @@ No Activity Tracked This Week
       <a href="https://github.com/januz08">Bltzkrg</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Lizzi3G">
+        <img src="https://avatars2.githubusercontent.com/u/126438515" width="100px;" alt="Lizzi3G"/>
+      </a>
+      <br />
+      <a href="https://github.com/Lizzi3G">Lizbeth González</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Edu22-san">
         <img src="https://avatars2.githubusercontent.com/u/70236757" width="100px;" alt="Edu22-san"/>
       </a>
       <br />
       <a href="https://github.com/Edu22-san">Raul Vigil</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AndresOtero2020">
-        <img src="https://avatars2.githubusercontent.com/u/75685102" width="100px;" alt="AndresOtero2020"/>
-      </a>
-      <br />
-      <a href="https://github.com/AndresOtero2020">Andres Otero</a>
     </td>
   </tr>
 </table>
