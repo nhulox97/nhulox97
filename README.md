@@ -63,6 +63,13 @@ No Activity Tracked This Week
       <a href="https://github.com/IDouble">Alp ₿📈🚀🌕</a>
     </td>
     <td align="center">
+      <a href="https://github.com/OfficialCodeVoyage">
+        <img src="https://avatars2.githubusercontent.com/u/72575602" width="100px;" alt="OfficialCodeVoyage"/>
+      </a>
+      <br />
+      <a href="https://github.com/OfficialCodeVoyage">Pavlo Bondarenko</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/TopCodeBeast">
         <img src="https://avatars2.githubusercontent.com/u/93806749" width="100px;" alt="TopCodeBeast"/>
       </a>
@@ -97,6 +104,8 @@ No Activity Tracked This Week
       <br />
       <a href="https://github.com/ElvisGmz">Elvis Gómez</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/jazsnchz">
         <img src="https://avatars2.githubusercontent.com/u/58913696" width="100px;" alt="jazsnchz"/>
@@ -104,8 +113,6 @@ No Activity Tracked This Week
       <br />
       <a href="https://github.com/jazsnchz">Jazmín Sánchez</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/manasesortez">
         <img src="https://avatars2.githubusercontent.com/u/40925935" width="100px;" alt="manasesortez"/>
@@ -147,13 +154,6 @@ No Activity Tracked This Week
       </a>
       <br />
       <a href="https://github.com/Lizzi3G">Lizbeth González</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Edu22-san">
-        <img src="https://avatars2.githubusercontent.com/u/70236757" width="100px;" alt="Edu22-san"/>
-      </a>
-      <br />
-      <a href="https://github.com/Edu22-san">Raul Vigil</a>
     </td>
   </tr>
 </table>
