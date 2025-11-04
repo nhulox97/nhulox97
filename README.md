@@ -18,8 +18,25 @@
 <!-- Tools and skills -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-582%20hrs%2026%20mins-blue)
 
- Last Updated on 03/11/2025 18:43:16 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/El_Salvador
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 04/11/2025 18:46:35 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
