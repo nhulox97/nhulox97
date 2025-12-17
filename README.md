@@ -95,7 +95,7 @@ No Activity Tracked This Week
         <img src="https://avatars2.githubusercontent.com/u/30043027" width="100px;" alt="danybeltran"/>
       </a>
       <br />
-      <a href="https://github.com/danybeltran">Dany Beltran</a>
+      <a href="https://github.com/danybeltran">dany</a>
     </td>
     <td align="center">
       <a href="https://github.com/ElvisGmz">
