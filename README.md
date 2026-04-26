@@ -114,13 +114,6 @@ No Activity Tracked This Week
       <a href="https://github.com/jazsnchz">Jazmín Sánchez</a>
     </td>
     <td align="center">
-      <a href="https://github.com/alan-alvarenga-telus">
-        <img src="https://avatars2.githubusercontent.com/u/48456822" width="100px;" alt="alan-alvarenga-telus"/>
-      </a>
-      <br />
-      <a href="https://github.com/alan-alvarenga-telus">Alan Alvarenga</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/manasesortez">
         <img src="https://avatars2.githubusercontent.com/u/40925935" width="100px;" alt="manasesortez"/>
       </a>
@@ -133,6 +126,13 @@ No Activity Tracked This Week
       </a>
       <br />
       <a href="https://github.com/josuecorea5">David Coreas</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/alan-alvarenga-telus">
+        <img src="https://avatars2.githubusercontent.com/u/48456822" width="100px;" alt="alan-alvarenga-telus"/>
+      </a>
+      <br />
+      <a href="https://github.com/alan-alvarenga-telus">Alan Alvarenga</a>
     </td>
     <td align="center">
       <a href="https://github.com/1HugoBenitez">
