@@ -18,8 +18,6 @@
 <!-- Tools and skills -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-582%20hrs%2026%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -36,7 +34,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/06/2026 19:50:45 UTC
+ Last Updated on 07/06/2026 19:52:09 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
