@@ -90,13 +90,6 @@ No AI Coding Activity Tracked This Week
       <a href="https://github.com/D3Portillo">Denny Portillo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/nelsondev19">
-        <img src="https://avatars2.githubusercontent.com/u/50471203" width="100px;" alt="nelsondev19"/>
-      </a>
-      <br />
-      <a href="https://github.com/nelsondev19">Nelson Hernández</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/danybeltran">
         <img src="https://avatars2.githubusercontent.com/u/30043027" width="100px;" alt="danybeltran"/>
       </a>
@@ -110,8 +103,6 @@ No AI Coding Activity Tracked This Week
       <br />
       <a href="https://github.com/ElvisGmz">Elvis Gómez</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/jazsnchz">
         <img src="https://avatars2.githubusercontent.com/u/58913696" width="100px;" alt="jazsnchz"/>
@@ -119,6 +110,8 @@ No AI Coding Activity Tracked This Week
       <br />
       <a href="https://github.com/jazsnchz">Jazmín Sánchez</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/alan-alvarenga-telus">
         <img src="https://avatars2.githubusercontent.com/u/48456822" width="100px;" alt="alan-alvarenga-telus"/>
@@ -160,6 +153,13 @@ No AI Coding Activity Tracked This Week
       </a>
       <br />
       <a href="https://github.com/Lizzi3G">Lizbeth González</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Edu22-san">
+        <img src="https://avatars2.githubusercontent.com/u/70236757" width="100px;" alt="Edu22-san"/>
+      </a>
+      <br />
+      <a href="https://github.com/Edu22-san">Raul Vigil</a>
     </td>
   </tr>
 </table>
